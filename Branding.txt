@@ -31,6 +31,7 @@ Core Values:
 - Intelligence
 - Freedom
 - Accessibility
+- Trust
 4. Brand messaging
 Main tagline:
 
@@ -84,3 +85,4 @@ Branding score: 9.5/10.
 
 Test 1 - This line was added directly on main.
 Test 2 - This line was added on the branch AiTestTwo, and the score above changed from 9.2 to 9.5.
+Test 3 C - This line and the Trust value were added on the branch AiTestC.
