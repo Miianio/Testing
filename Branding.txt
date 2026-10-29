@@ -42,6 +42,7 @@ Supporting statements:
 - Everything Connected.
 - Your Digital World, Unified.
 - One Interface. Infinite Potential.
+- Built for Builders.
 5. Brand evolution
 MIIAN is flexible enough to become a technology ecosystem.
 Brand	Purpose
@@ -86,3 +87,4 @@ Branding score: 9.5/10.
 Test 1 - This line was added directly on main.
 Test 2 - This line was added on the branch AiTestTwo, and the score above changed from 9.2 to 9.5.
 Test 3 C - This line and the Trust value were added on the branch AiTestC.
+Test 3 D - This line and the Built for Builders statement were added on AiTestD, on top of AiTestC.
